@@ -42,4 +42,5 @@ export const LINKS = [
   // ---------- News & Media ----------
   { name: "Morning Journal", category: "News & Media", subcategory: "Newspaper", url: "https://www.morningjournalnews.com/", description: "Daily newspaper based in Lisbon serving the county" },
   { name: "Salem News", category: "News & Media", subcategory: "Newspaper", url: "https://www.salemnews.net/", description: "Local newspaper serving Salem and the surrounding region" },
+  { name: "The Review Newspapers", category: "News & Media", subcategory: "Newspaper", url: "https://www.thereviewnewspapers.com/", description: "Regional weekly serving parts of Portage, Columbiana, and Geauga counties." },
 ];
