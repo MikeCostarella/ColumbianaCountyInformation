@@ -13,6 +13,8 @@ export const CATEGORIES = [
   "News & Media",
 ];
 
+export const AUDITOR_VENDOR = "Manatron / Aumentum (Thomson Reuters)";
+
 export const LINKS = [
   // ---------- Government ----------
   { name: "Columbiana County Government", category: "Government", subcategory: "County", url: "https://www.columbianacounty.org/", description: "Official Columbiana County government website" },
